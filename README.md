@@ -1,6 +1,6 @@
 # Identicon
 
-**TODO: Add description**
+**This is one of the projects included in The Complete Elixir and Phoenix Bootcamp at Udemy courses platform which generates an identicon based on the value of the input as a string parameter.**
 
 ## Installation
 
